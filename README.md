@@ -78,7 +78,8 @@ const mit = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mit-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mit-codes&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=mit-codes&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" width="49%" />
 
 </div>
 
@@ -94,7 +95,7 @@ const mit = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mit-codes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=mit-codes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -104,7 +105,7 @@ const mit = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mit-codes&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mit-codes&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
